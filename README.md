@@ -22,3 +22,4 @@ UART atands for universal asynchronous serial reciever transmitter
 
 ------
 **RECIEVER MODULE SIMULATIONS AND WAVEFORMS:**
+<img src="img/uart_tx.png" width=400>
