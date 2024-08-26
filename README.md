@@ -29,5 +29,6 @@ UART atands for universal asynchronous serial reciever transmitter
 <img src="img/uart_tx1.png" width=500>
 
 2. Output waveforms
+
    <img src="img/op_tx_data1.png" width=500>
    <img src="img/op_tx_data2.png" width=500>
