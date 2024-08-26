@@ -25,4 +25,5 @@ UART atands for universal asynchronous serial reciever transmitter
 
 1. Design synthesis
    
-<img src="img/uart_tx.png" width=400>
+<img src="img/uart_tx.png" width=500>
+<img src="img/uart_tx1.png" width=500>
