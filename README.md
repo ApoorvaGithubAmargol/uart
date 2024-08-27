@@ -9,7 +9,7 @@
 
 **Duration:** AUGUST to SEPTEMBER (2024)
 
-**Mentor:** 
+**Mentor:** Muzammil Ahmed
 
 ________
   Overview of the task 2: implementation of UART
